@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ultra-dinoz
-- 👀 I’m interested in frameworks like Ant and Python
+- 👀 I’m interested in frameworks and coding like Ant and Python
 - 🌱 I’m currently learning Ant/Material/React/Python
 - 💞️ I’m looking to collaborate on UE5 stuff
 - 📫 How to reach me dm or email me.
